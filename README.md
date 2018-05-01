@@ -1,6 +1,6 @@
 # rectangle_packer
 
-this is an implement for packer multiple rectangle into one single rectangle
+this is an implement for packing multiple rectangle into one single rectangle
 
 # output
 ![display](imgs/haha.jpg)
